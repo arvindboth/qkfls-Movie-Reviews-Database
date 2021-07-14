@@ -3,3 +3,5 @@ applications:
  - name: movies-reviews-database-56b
    random-route: false
    memory: 128M
+   services: 
+- cloudappdevs-cloudant
