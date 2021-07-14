@@ -1,6 +1,7 @@
 ---
 services:
 - cloudappdevs-cloudant
+- cloudappdevs-nlu
 applications:
  - name: movies-reviews-database-56b
    random-route: false
