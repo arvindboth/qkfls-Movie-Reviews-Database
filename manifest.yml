@@ -1,6 +1,6 @@
 ---
 services:
-- cloudappdevs-cloudant
+- cloudappdev-cloudant
 - cloudappdevs-nlu
 applications:
  - name: movies-reviews-database-56b
